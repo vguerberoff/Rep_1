@@ -1,2 +1,2 @@
-# Rep_1
+# PrepCourse
 Repositorio de prueba para PrepCourse
